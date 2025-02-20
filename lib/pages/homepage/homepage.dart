@@ -14,7 +14,7 @@ class HomePage extends GetView<HomePageController> {
           controller.appBarName,
           style: TextStyle(
               color: Colors.white,
-              fontSize: 12.sp,
+              // fontSize: 12.sp,
               fontWeight: FontWeight.bold),
         ),
       ),
